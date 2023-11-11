@@ -10,15 +10,14 @@ const Home = () => {
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 py-8 md:flex-row'>
             <div  className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
-                    I'm a Full Stack Developer    
+                    Hi, I'm Sri Sudharshan    
                 </h2>
-                <p className='text-gray-500 py-4 max-w-md'>
-                Full-stack web developer with over 2 years of experience analyzing, designing, developing, and integrating front-end & back-end-based
-                applications, Possesses knowledge of web applications using HTML, CSS, 
-                TypeScript, AngularJS, Java and Spring Boot.
+                <br />
+                <p className='text-gray-500 py-4 text-4xl sm:text4-xl'>
+                Full-Stack Developer
                 </p>
             
-            <div>
+            <div className='py-3'>
              <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
                 Portfolio 
                 <span className='group-hover:rotate-90 duration-300'> <MdOutlineKeyboardArrowRight size={25} className='ml-1'/> </span>

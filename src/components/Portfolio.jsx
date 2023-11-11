@@ -21,18 +21,18 @@ const Portfolio = () => {
             id:3,
             src:arrayDestruct
         },
-        {
-            id:4,
-            src:arrayDestruct
-        },
-        {
-            id:5,
-            src:arrayDestruct
-        },
-        {
-            id:6,
-            src:arrayDestruct
-        }
+        // {
+        //     id:4,
+        //     src:arrayDestruct
+        // },
+        // {
+        //     id:5,
+        //     src:arrayDestruct
+        // },
+        // {
+        //     id:6,
+        //     src:arrayDestruct
+        // }
     ]
 
   return (

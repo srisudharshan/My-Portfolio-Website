@@ -12,19 +12,21 @@ const About = () => {
             Full-stack web developer with over 2 years of experience analyzing,
             designing, developing, and integrating front-end & back-end-based
             applications, Possesses knowledge of web applications using HTML, CSS,
-            TypeScript, AngularJS, Java and Spring Boot. Key achievement:
-            collaborated with 5+ engineering and design teams to integrate external
-            APIs into web pages and applications.
+            TypeScript, AngularJS, Java and Spring Boot. 
 
             </p>
             <br/>
             <p className='text-xl'>
-            Full-stack web developer with over 2 years of experience analyzing,
-            designing, developing, and integrating front-end & back-end-based
-            applications, Possesses knowledge of web applications using HTML, CSS,
-            TypeScript, AngularJS, Java and Spring Boot. Key achievement:
-            collaborated with 5+ engineering and design teams to integrate external
+            
+            <b>Key achievement:</b> <br />
+            Collaborated with 5+ engineering and design teams to integrate external
             APIs into web pages and applications.
+            <br />
+            <br />
+            Developed responsive and interactive web application (Order-to -Cash 
+            Application) using Typescript, HTML, and CSS, increasing user engagement by 73%.
+
+            
 
             </p>
         </div>

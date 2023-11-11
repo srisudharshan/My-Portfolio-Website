@@ -12,7 +12,7 @@ const SocialLinks = () => {
                 <>LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://linkedin.com/in/sri-sudharshan',
             style:'rounded-tr-md'
         },
         {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
                 <>GitHub <FaGithub size={30}/>
                 </>
             ),
-            href: 'https://github.com',
+            href: 'https://github.com/srisudharshan',
         },
         {
             id:3,
@@ -29,7 +29,7 @@ const SocialLinks = () => {
                 <>Mail <HiOutlineMail size={30}/>
                 </>
             ),
-            href: 'mailto:sri@gmail.com',
+            href: 'mailto:sri_sudharshan@yahoo.com',
             style:'rounded-tr-md'
         },
         {
