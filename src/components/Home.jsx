@@ -15,8 +15,7 @@ const Home = () => {
                 <p className='text-gray-500 py-4 max-w-md'>
                 Full-stack web developer with over 2 years of experience analyzing, designing, developing, and integrating front-end & back-end-based
                 applications, Possesses knowledge of web applications using HTML, CSS, 
-                TypeScript, AngularJS, Java and Spring Boot. Key achievement: collaborated with 5+ engineering and design teams to integrate external 
-                APIs into web pages and applications.
+                TypeScript, AngularJS, Java and Spring Boot.
                 </p>
             
             <div>
